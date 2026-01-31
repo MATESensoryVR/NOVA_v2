@@ -14,7 +14,7 @@ Watch the project video here:
 
 ## 🛠️ Build Instructions
 
-- **Unity version:** `2022.3.62f1 (LTS)`  
+- **Unity version:** `2022.3.62f2 (LTS)`  
   Please make sure you open the project with this version or a compatible LTS version to avoid serialization issues.
 
 Steps to build:
